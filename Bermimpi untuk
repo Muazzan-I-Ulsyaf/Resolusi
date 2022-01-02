@@ -1,12 +1,118 @@
 Menjadi Web Developer
 
-- Menguasai Front End
-- Menguasai Back End
-- Menguasai HTML
-- Menguasai CSS
-- Menguasai JavaScript
-- Menguasai PHP
-- Menguasai ASP
-- Menguasai ColdFusion
-- Menguasai Python
-- Menguasai MySQL
+Jalur belajar Web Development 2021 menurut @SandhikaGalih
+
+  - Kuasai tentang internet & Teknologi Web
+    - HTTP 
+    - WWW
+    - Web Browser
+    - Web Hosting & Nama Domain
+    
+   -Tools Pendukung yang digunakan
+    - Code Editor
+      - Visual Studio Code (sudah terinstal)
+    - Pahami keunikkan setiap Web Browser 
+      - Google Crome (sudah terinstal)
+      - Mozilla Firefox
+      - Safari
+      - Opera (sudah terinstal)
+     - Design Tools
+      - Figma
+      - Adobe XD
+      - Photoshop
+    
+    - HTML (HyperText Markup Language)
+      - Tag & Atibut
+      - Form & Table
+      - Semantic HTML
+      - Accessibility
+     
+    - CSS (Cascading Style Sheet) Dasar
+      - Selector
+      - Property
+      - Specificity
+      
+    - CSS Layouting 
+      - Display & Dimensi
+      - Box Model
+      - Position
+      - Responsive Web Design
+      - CSS Unit
+      - Flexbox
+      - Grid System
+     
+    - CSS 3
+      - Properti CSS3
+      - Transisi
+      - Animasi
+      
+    - CSS Frameworks
+      - Bootstrap 
+      - Materialize
+      - Foundation
+      - Bulma
+      
+    - Verion Control System menggunakan Git
+      - Pengelolaan Source Code
+      - Pengelolaan Repository dengan Github
+      - Hosting Website menggunakan GitHub Pages
+    
+    - Dasar Pemrograman Menggunakan JavaScript
+      - Apa itu programming?
+      - Bahasa Pemrograman
+      - Nilai & Tipe Data
+      - Operator
+      - Variable
+      - Struktur Kendali
+      - Function 
+      - Array
+      - Object
+     
+    - Frontend
+      - JavaScript DOM
+        - DOM Tree
+        - DOM Selection
+        - DOM Manipulation
+        - DOM Traversal
+        
+      - CSS Pre-processor
+        - SASS
+        - LESS
+        - PostCSS
+        
+      - Modern JavaScript
+      
+      - API (Application Program Interface)
+      
+      - Package Manager 
+        - NPM
+        - Yam
+        
+      - Framework Frontend
+        - React
+        - Vue
+        - Angular
+        - Svelte
+        
+    - Backend
+      - Pilih Bahasa Pemprograman
+        - PHP (Hypertext Preprocessor)
+          - PHP Dasar
+          - Object Oriented PHP
+          - MVC
+          - PHP Framework
+            - Code Igniter
+            - Laravel
+        - Python (sudah terinstal)
+        - Java
+        - Go
+        - Ruby
+        - Javascript
+          - Modem Javascript
+          - Nodejs
+          
+       - Database
+        - Relational Database
+        - NoSQL Database
+        
+       - API (Application Program Interface)
